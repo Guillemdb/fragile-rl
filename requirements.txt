@@ -1,0 +1,3 @@
+Cython>=0.29.16,<1.0; python_version == '3.7'
+fragile>=0.0.47
+
